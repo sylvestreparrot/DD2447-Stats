@@ -1,4 +1,4 @@
-#Je t'aime encore plus
+#Je t'aime encore plus ma choupi
 # import SVDataGenerator
 #
 # # generation of the parameters phi,alpha,beta
